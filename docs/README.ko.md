@@ -2,7 +2,7 @@
 
 ProgressiveServe는 서버리스 환경에서 LLM 전체를 한 번에 불러오는 대신, 프루닝된 경량 모델로 먼저 응답하고 백그라운드에서 나머지 레이어를 복구하는 3단계 로딩 파이프라인입니다.
 
-[논문 PDF](../paper/progressive-serve-ksc-2025.pdf) · [실험 결과](../results/README.md) · [English README](../README.md)
+[논문 PDF](../paper/progressive-serve-ksc-2025.pdf) | [실험 결과](../results/README.md) | [English README](../README.md)
 
 ## 해결하려는 문제
 

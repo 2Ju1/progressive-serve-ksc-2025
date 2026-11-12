@@ -2,7 +2,7 @@
 
 Progressive model loading and recovery for reducing cold-start latency in serverless LLM serving.
 
-[Paper (PDF)](paper/progressive-serve-ksc-2025.pdf) · [Architecture notes](docs/ARCHITECTURE.md) · [한국어 요약](docs/README.ko.md) · [Reported results](results/README.md)
+[Paper (PDF)](paper/progressive-serve-ksc-2025.pdf) | [Architecture notes](docs/ARCHITECTURE.md) | [한국어 요약](docs/README.ko.md) | [Reported results](results/README.md)
 
 ## Problem
 
