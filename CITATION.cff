@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the KSC 2025 paper."
+title: "ProgressiveServe KSC 2025 companion material"
+type: dataset
+authors:
+  - family-names: Park
+    given-names: Nadam
+  - family-names: Lee
+    given-names: Nakyeong
+  - family-names: Lee
+    given-names: Juwon
+  - family-names: Sim
+    given-names: Jaehyeong
+version: 1.0.0
+date-released: 2026-11-12
+preferred-citation:
+  type: conference-paper
+  title: "ProgressiveServe: Progressive Model Loading and Recovery for Mitigating Cold Start in Serverless LLM Serving"
+  authors:
+    - family-names: Park
+      given-names: Nadam
+    - family-names: Lee
+      given-names: Nakyeong
+    - family-names: Lee
+      given-names: Juwon
+    - family-names: Sim
+      given-names: Jaehyeong
+  collection-title: "Proceedings of the 2025 Korea Software Congress"
+  year: 2025
+  start: 1668
+  end: 1670

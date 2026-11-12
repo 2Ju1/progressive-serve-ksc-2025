@@ -1,0 +1,5 @@
+system,stage,em_percent,f1_percent,stage_wall_clock_seconds,ttft_seconds
+ServerlessLLM,baseline,55.67,66.11,114,114
+ProgressiveServe,1,48.22,54.26,90,90
+ProgressiveServe,2,56.22,62.02,19,
+ProgressiveServe,3,55.67,66.11,19,
